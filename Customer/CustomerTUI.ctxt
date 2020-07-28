@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CustomerTUI
+comment1.params=
+comment1.target=CustomerTUI()
+comment10.params=
+comment10.target=void\ showAllCustomers()
+comment11.params=
+comment11.target=void\ showCustomer()
+comment12.params=command
+comment12.target=void\ unknownCommand(int)
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=void\ addCustomer()
+comment4.params=
+comment4.target=void\ displayMenu()
+comment5.params=command
+comment5.target=void\ execute(int)
+comment6.params=
+comment6.target=int\ getCommand()
+comment7.params=
+comment7.target=void\ getNumberOfCustomers()
+comment8.params=
+comment8.target=void\ quitCommand()
+comment9.params=
+comment9.target=void\ removeCustomer()
+numComments=13

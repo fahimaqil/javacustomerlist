@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HW4CustomerList
+comment1.params=
+comment1.target=HW4CustomerList()
+comment2.params=
+comment2.target=int\ getNumberOfCustomers()
+comment3.params=accountNumber
+comment3.target=boolean\ getCustomer(java.lang.String)
+comment4.params=
+comment4.target=void\ getAllCustomers()
+comment5.params=accountNumber
+comment5.target=boolean\ removeCustomer(java.lang.String)
+numComments=6
